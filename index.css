@@ -56,5 +56,6 @@ table {
 
 html, body {
     height: 100%;
+	border: none;
     font-family:'Thasadith', sans-serif;
 }
